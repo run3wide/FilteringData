@@ -6,6 +6,10 @@
  * @version (a version number or a date)
  */
 public interface Filter
+
 {
-    public  boolean satisfies(QuakeEntry qe); 
+    public  boolean satisfies(QuakeEntry qe);
+
+
+
 }

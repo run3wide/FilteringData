@@ -15,7 +15,7 @@ public class EarthQuakeClient2Test {
     public void quakesWithFilter() throws Exception {
         EarthQuakeClient2 tester = new EarthQuakeClient2();
         //tester.quakesWithFilter();
-        tester.testMatchAllFilter();
+        tester.testMatchAllFilter2();
 
     }
 

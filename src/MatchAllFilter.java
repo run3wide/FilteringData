@@ -7,7 +7,7 @@ public class MatchAllFilter implements Filter {
     private ArrayList<Filter> filters;
 
     public MatchAllFilter() {
-        ArrayList<Filter> filters = new ArrayList<>();
+        filters = new ArrayList<>();
     }
 
     public void addFilter(Filter filter) {
